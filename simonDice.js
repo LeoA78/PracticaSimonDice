@@ -1,4 +1,31 @@
 
+/* 
+                Idea de funcionamiento detallada.
+
+* El Documento HTML contiene 5 botones, 4 de colores y 1 para iniciar el juego.
+* Cada boton de color es representado con un numero de 1 a 4 incluidos.                
+
+- Iniciar con Click en boton Start!
+- Se genera un numero al azar de 1 a 4
+- Se almacena en una matriz
+- Se lee la matriz encendiendo el boton correspondiente al numero que se generó al azar
+- Queda a la espera de que el usuario clickee algun boton
+- Usuario hace clic en el boton que le parezca correcto
+- Se almacena el numero del boton en otra matriz
+- Se compara con la matriz principal generada por el programa
+- Se corrobora si acertó
+
+
+
+Esta es la idea del programa, se aceptan otras ideas para su funcionamiento.
+
+*/
+
+
+
+
+
+
 
 
 // Accedemos a los Botones
